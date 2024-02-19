@@ -1,0 +1,6 @@
+python-docx
+Pillow
+opencv-python
+numpy
+PyQt5
+customtkinter
